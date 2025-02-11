@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.ArrayList;
 import java.util.List;
 
-// Test Class for ResumeScreening
+// Test Class for ResumeScreeening
 public class ResumeScreeningTest {
     private ResumeScreening screeningSystem;
     private SoftwareEngineer se;
