@@ -1,6 +1,6 @@
 package com.capgeminitraining.day1;
 
-// Base class for Product Categories
+// Base class for Product Categorie
 class ProductCategory {
     // A base class that can be extended by specific categories.
 }
