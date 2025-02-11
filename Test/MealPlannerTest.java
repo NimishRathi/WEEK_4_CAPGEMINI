@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.ArrayList;
 import java.util.List;
 
-// Test Class for MealPlanner
+// Test Class for MealPlannerr
 public class MealPlannerTest {
     private MealPlanner mealPlanner;
     private VegetarianMeal vegetarianMeal;
