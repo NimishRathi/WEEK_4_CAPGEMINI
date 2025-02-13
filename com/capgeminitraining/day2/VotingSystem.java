@@ -52,4 +52,5 @@ public class VotingSystem {
         // Find winner
         votingSystem.findWinner();
     }
+    
 }
