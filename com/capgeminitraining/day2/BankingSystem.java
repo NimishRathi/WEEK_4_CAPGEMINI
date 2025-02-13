@@ -65,7 +65,7 @@ public class BankingSystem {
     public static void main(String[] args) {
         BankingSystem bank = new BankingSystem();
 
-        // Adding customer accounts
+        // Adding customer account
         bank.addAccount(1001, 5000);
         bank.addAccount(1002, 3000);
         bank.addAccount(1003, 7000);
