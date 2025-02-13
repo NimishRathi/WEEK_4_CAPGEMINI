@@ -9,6 +9,7 @@ class Employee {
     public Employee(String name, String department) {
         this.name = name;
         this.department = department;
+        
     }
 
     @Override
