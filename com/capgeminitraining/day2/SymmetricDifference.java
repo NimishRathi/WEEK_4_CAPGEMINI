@@ -20,6 +20,7 @@ public class SymmetricDifference {
 
         Set<Integer> symmetricDiff = symmetricDifference(set1, set2);
         System.out.println("Symmetric Difference: " + symmetricDiff); // Output: [1, 2, 4, 5]
+        
     }
 }
 
