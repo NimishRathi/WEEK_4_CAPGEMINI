@@ -1,5 +1,6 @@
 package com.capgeminitraining.day03;
 
+
 import java.io.*;
 
 public class PipedStreamExample {
