@@ -3,7 +3,7 @@ package com.capgeminitraining.day03;
 import java.io.*;
 
 public class BufferedFileCopy {
-    private static final int BUFFER_SIZE = 4; // 4 KB
+    private static final int BUFFER_SIZE = 4; 
 
     
     public static void main(String[] args) {
