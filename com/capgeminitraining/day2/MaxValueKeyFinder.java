@@ -12,6 +12,7 @@ public class MaxValueKeyFinder {
 
         return Collections.max(map.entrySet(), Map.Entry.comparingByValue()).getKey();
     }
+    
 
     public static void main(String[] args) {
         Map<String, Integer> map = new HashMap<>();
