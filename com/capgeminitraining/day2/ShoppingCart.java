@@ -86,5 +86,6 @@ public class ShoppingCart {
 
         // Display cart after removal
         cart.displayCart();
+        
     }
 }
