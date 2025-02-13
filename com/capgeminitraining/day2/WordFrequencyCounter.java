@@ -29,4 +29,5 @@ public class WordFrequencyCounter {
         // Print word frequency map
         System.out.println(wordCountMap);
     }
+    
 }
