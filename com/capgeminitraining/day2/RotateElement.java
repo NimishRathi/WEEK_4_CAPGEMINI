@@ -31,5 +31,6 @@ public class RotateElement {
         rotate(list,position);
         //list after rotating
         System.out.println(list);
+        
     }
 }
