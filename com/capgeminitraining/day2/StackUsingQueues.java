@@ -73,6 +73,7 @@ public class StackUsingQueues {
         System.out.println("Popped: " + stack.pop()); // Output: 3
         System.out.println("Popped: " + stack.pop()); // Output: 2
         System.out.println("Is stack empty? " + stack.isEmpty()); // Output: false
+        
     }
 }
 
