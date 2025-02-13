@@ -13,6 +13,7 @@ public class SetEqualityChecker {
 
         boolean result = areSetsEqual(set1, set2);
         System.out.println(result); // Output: true
+        
     }
 }
 
