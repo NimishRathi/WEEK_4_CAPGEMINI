@@ -8,6 +8,7 @@ import java.util.Map;
 public class FrequencyOfElement {
 
     private static Map<String, Integer> countFrequency(List<String> fruits) {
+        
         Map<String,Integer> frequency = new HashMap<>();
 
         for (String word : fruits){
