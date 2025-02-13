@@ -12,6 +12,7 @@ public class CircularBuffer {
         this.capacity = capacity;
         buffer = new int[capacity];
     }
+    
 
     // Add an element (overwrite if full)
     public void enqueue(int value) {
