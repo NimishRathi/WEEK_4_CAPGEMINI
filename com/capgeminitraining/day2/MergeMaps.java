@@ -11,6 +11,7 @@ public class MergeMaps {
             mergedMap.put(entry.getKey(), entry.getValue());
         }
 
+        
         // Merge elements from map2
         for (Map.Entry<String, Integer> entry : map2.entrySet()) {
             mergedMap.put(entry.getKey(), mergedMap.getOrDefault(entry.getKey(), 0) + entry.getValue());
