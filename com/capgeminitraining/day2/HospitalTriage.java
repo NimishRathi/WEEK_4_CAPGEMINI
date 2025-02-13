@@ -5,6 +5,7 @@ import java.util.PriorityQueue;
 class Patient implements Comparable<Patient> {
     String name;
     int severity;
+    
 
     public Patient(String name, int severity) {
         this.name = name;
