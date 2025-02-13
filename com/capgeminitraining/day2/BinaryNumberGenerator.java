@@ -24,6 +24,7 @@ public class BinaryNumberGenerator {
         int N = 5;
         List<String> binaryNumbers = generateBinaryNumbers(N);
         System.out.println("First " + N + " Binary Numbers: " + binaryNumbers);
+        
     }
 }
 
