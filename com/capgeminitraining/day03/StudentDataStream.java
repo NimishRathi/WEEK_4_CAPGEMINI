@@ -4,6 +4,7 @@ import java.io.*;
 
 public class StudentDataStream {
     public static void main(String[] args) {
+        
         String fileName = "D:\\WEEK4\\Streams\\src\\main\\java\\org\\example/students.txt"; // Binary file to store student details
 
         // Sample student data
