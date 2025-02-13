@@ -24,6 +24,7 @@ public class SetOperations {
 
         System.out.println("Union: " + unionResult);         // Output: [1, 2, 3, 4, 5]
         System.out.println("Intersection: " + intersectionResult); // Output: [3]
+        
     }
 }
 
