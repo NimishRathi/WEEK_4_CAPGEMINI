@@ -4,6 +4,7 @@ import java.io.*;
 import java.nio.file.Files;
 import java.util.Arrays;
 
+
 public class ImageByteArrayConverter {
     public static void main(String[] args) {
         String inputImagePath = "C:\\Users\\nimis\\IdeaProjects\\Day19\\src\\main\\java\\com\\capgeminitraining\\day03\\sample_1MB.txt";  // Change this to your image file path
