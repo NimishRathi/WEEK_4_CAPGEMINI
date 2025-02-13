@@ -13,6 +13,7 @@ public class InvertMap {
             // Check if the value already exists in the map, if not, create a new list
             if (!inverted.containsKey(value)) {
                 inverted.put(value, new ArrayList<>());
+                
             }
 
             // Add the key to the list
