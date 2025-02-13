@@ -20,4 +20,5 @@ class ReverseList{
         ReverseList.reverseList(linkedList);
         System.out.println(linkedList);
     }
+    
 }
