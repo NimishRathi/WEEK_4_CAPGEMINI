@@ -9,6 +9,7 @@ class PolicyMap {
     private LocalDate expiryDate;
     private String coverageType;
     private double premiumAmount;
+    
 
     public PolicyMap(String policyNumber, String policyHolderName, LocalDate expiryDate, String coverageType, double premiumAmount) {
         this.policyNumber = policyNumber;
