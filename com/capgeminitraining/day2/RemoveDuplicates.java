@@ -12,6 +12,7 @@ public class RemoveDuplicates {
                 seen.add(num);
                 answer.add(num);
             }
+            
         }
         return answer;
     }
