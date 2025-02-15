@@ -1,5 +1,4 @@
 package org.example;
-
 import java.util.Scanner;
 
 // Custom exception class
