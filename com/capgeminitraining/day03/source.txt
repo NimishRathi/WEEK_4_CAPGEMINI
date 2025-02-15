@@ -1,2 +1,2 @@
 Java is great. Java is powerful.
-Java is used worldwide. Programming in Java is fun.
+Java is used worldwide. Programming in Java is fun. 
