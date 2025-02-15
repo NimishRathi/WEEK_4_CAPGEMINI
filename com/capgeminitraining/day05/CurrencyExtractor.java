@@ -6,7 +6,7 @@ public class CurrencyExtractor {
     public static void main(String[] args) {
         String text = "The price is $45.99, and the discount is 10.50.";
 
-        // Regular expression to match currency values (with or without a dollar sign)
+        // Regular expression to match currency values 
         String currencyRegex = "\\$?\\d+\\.\\d{2}";
 
         // Compile the regex pattern
