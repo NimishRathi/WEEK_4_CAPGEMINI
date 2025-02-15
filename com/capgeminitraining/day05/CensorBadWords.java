@@ -15,4 +15,5 @@ public class CensorBadWords {
         // Print the censored sentence
         System.out.println("Censored Output: " + input);
     }
+    
 }
