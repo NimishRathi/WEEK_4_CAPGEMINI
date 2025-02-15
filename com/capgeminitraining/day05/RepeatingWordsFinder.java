@@ -5,7 +5,7 @@ public class RepeatingWordsFinder {
     public static void main(String[] args) {
         String text = "This is is a repeated repeated word test repeated.";
 
-        // Convert text to lowercase and split into words
+        // Convert text to lowercase and split into word
         String[] words = text.toLowerCase().split("\\s+");
 
         // Using HashMap to store word frequencies
