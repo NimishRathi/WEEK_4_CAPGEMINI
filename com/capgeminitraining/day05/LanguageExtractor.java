@@ -13,7 +13,7 @@ public class LanguageExtractor {
         Pattern pattern = Pattern.compile(languageRegex);
         Matcher matcher = pattern.matcher(text);
 
-        // Using while loop to find all matches
+        // Using while loop to find all matche
         System.out.println("Extracted Programming Languages:");
         while (matcher.find()) {
             System.out.println(matcher.group());  // Print each matched language
