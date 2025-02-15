@@ -17,5 +17,6 @@ public class ValidateLicencePlateNumber {
         Matcher matcher = pattern.matcher(licenceNumber);
         System.out.println(licenceNumber + " is Valid: " + matcher.matches());
     }
+        
 }
 }
