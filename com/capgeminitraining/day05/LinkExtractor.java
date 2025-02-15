@@ -1,5 +1,4 @@
 package com.capgeminitraining.day05;
-
 import java.util.regex.*;
 
 public class LinkExtractor {
