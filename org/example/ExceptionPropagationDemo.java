@@ -12,7 +12,6 @@ public class ExceptionPropagationDemo {
     public static void method2() {
         method1();
     }
-
     public static void method1() {
         throw new ArithmeticException("10 / 0 causes an error");
     }
