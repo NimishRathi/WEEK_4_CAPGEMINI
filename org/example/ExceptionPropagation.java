@@ -9,7 +9,6 @@ public class ExceptionPropagation {
             System.out.println("Invalid input: Amount and rate must be positive");
         }
     }
-
     public static double calculateInterest(double amount, double rate, int years) throws IllegalArgumentException {
         if (amount < 0 || rate < 0) {
             throw new IllegalArgumentException("Amount and rate must be positive");
