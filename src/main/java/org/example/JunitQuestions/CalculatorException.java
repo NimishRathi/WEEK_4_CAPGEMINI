@@ -1,4 +1,4 @@
-package com.capgeminitraining.Day05;
+package org.example.JunitQuestions;
 
 public class CalculatorException {
     // Method to perform division, throws ArithmeticException if b is zero

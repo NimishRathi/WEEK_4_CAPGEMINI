@@ -1,4 +1,4 @@
-package com.capgeminitraining.Day05;
+package org.example.JunitQuestions;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

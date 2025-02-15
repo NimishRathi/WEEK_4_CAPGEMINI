@@ -1,4 +1,4 @@
-package com.capgeminitraining.Day05;
+package org.example.JunitQuestions;
 
 public class TaskManager {
     public static String longRunningTask() throws InterruptedException {
