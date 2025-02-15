@@ -1,5 +1,4 @@
 package com.capgeminitraining.day05;
-
 public class SpaceReducer {
     public static void main(String[] args) {
         String input = "This  is   an  example    with multiple   spaces.";
